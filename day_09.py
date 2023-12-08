@@ -1,6 +1,7 @@
 from aoc_io import fetch, run, stopwatch
 import math, re
 
+
 class Solution:
     def __init__(self):
         self.data = self._parse_data()
@@ -19,6 +20,7 @@ class Solution:
     def calculate_p2(self) -> int:
         p2 = 0
         return p2
+
 
 if __name__ == "__main__":
     run(Solution)
