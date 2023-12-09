@@ -7,13 +7,13 @@ def stopwatch(function):
         result = function(*args, **kwargs)
         end_time = time.perf_counter()
         time_taken = end_time - start_time
-        print(f"{function.__name__}' took {time_taken:.4f} seconds to run.")
+        print(f"{function.__name__} took {time_taken:.4f} seconds to run.")
         return result
 
     return wrapper
 
 
-def fetch(day, year):
+def fetch(day):
     file = f"./input_{day}.txt"
     if os.path.exists(file):
         with open(file, "r") as f:

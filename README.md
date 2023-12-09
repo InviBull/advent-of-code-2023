@@ -18,7 +18,7 @@ My solutions to [Advent of Code 2023](https://adventofcode.com/2023/)
 | 06 (Wait For It)                     |     43819      |     42435    |       |
 | 07 (Camel Cards)                     |     35504      |       -      |       |
 | 08 (Haunted Wasteland)               |     39245      |     26932    |       |
-| 09 ()                                |                |              |       |
+| 09 (Mirage Maintenance)              |      3016      |      3432    |       |
 | 10 ()                                |                |              |       |
 | 11 ()                                |                |              |       |
 | 12 ()                                |                |              |       |
@@ -40,4 +40,4 @@ My solutions to [Advent of Code 2023](https://adventofcode.com/2023/)
 
 | Leaderboard | Score  | Rank   |
 | :---------- | :----: | :----: |
-| Worldwide   |    0   |   -    |
+| Worldwide   |   0    |   -    |
